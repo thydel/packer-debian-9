@@ -1,4 +1,7 @@
+*~
 packer_cache/*
 *.box
 iso/*
 .vagrant/*
+output-virtualbox-iso/
+packer-debian-921-amd64-vmware/
